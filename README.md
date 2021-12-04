@@ -63,6 +63,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Execute
     $ yarn start
 
+### Execute o teste unitário
+    $ yarn test
+
 ### Interaja com a API através do Insomnia Ou Postman
   - Na pasta tools existe um arquivo Insomnia.json com as requisições
   
